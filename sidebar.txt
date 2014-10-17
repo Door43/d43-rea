@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rea:home|Door43 (rea)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rea|d43-rea repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rea/archive/master.zip|d43-rea.zip]]
+
+**Recent Changes**
+{{changes>ns = rea}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rea|Ethnologue data]]
+
